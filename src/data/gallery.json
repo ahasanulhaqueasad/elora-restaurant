@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Signature Dining",
+    "category": "Our Cuisine",
+    "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Signature food presentation"
+  },
+  {
+    "id": 2,
+    "title": "Elegant Atmosphere",
+    "category": "Our Restaurant",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Elegant restaurant interior and dining table"
+  },
+  {
+    "id": 3,
+    "title": "Crafted With Passion",
+    "category": "Our Kitchen",
+    "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Chef preparing food in a professional kitchen"
+  },
+  {
+    "id": 4,
+    "title": "A Taste of Excellence",
+    "category": "Our Signature",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Freshly prepared gourmet food"
+  },
+  {
+    "id": 5,
+    "title": "Fresh Ingredients",
+    "category": "Farm to Table",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Fresh vegetables and salad ingredients"
+  },
+  {
+    "id": 6,
+    "title": "Perfectly Grilled",
+    "category": "From the Grill",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Grilled meat prepared with herbs"
+  },
+  {
+    "id": 7,
+    "title": "Pasta Perfection",
+    "category": "Italian Favorites",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Fresh pasta served with herbs"
+  },
+  {
+    "id": 8,
+    "title": "A Sweet Finish",
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Chocolate cake dessert"
+  },
+  {
+    "id": 9,
+    "title": "Ocean Fresh",
+    "category": "Seafood",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Fresh seafood prepared for dining"
+  },
+  {
+    "id": 10,
+    "title": "The Art of Plating",
+    "category": "Chef's Creation",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Carefully presented restaurant meal"
+  },
+  {
+    "id": 11,
+    "title": "Warm Hospitality",
+    "category": "Our Experience",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Warm and inviting restaurant interior"
+  },
+  {
+    "id": 12,
+    "title": "A Feast for the Senses",
+    "category": "Dining Experience",
+    "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Restaurant dining experience"
+  },
+  {
+    "id": 13,
+    "title": "Fresh and Flavorful",
+    "category": "Seasonal Menu",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Fresh colorful salad"
+  },
+  {
+    "id": 14,
+    "title": "Made to Delight",
+    "category": "Our Desserts",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=85",
+    "size": "small",
+    "alt": "Delicious dessert served with fresh fruit"
+  },
+  {
+    "id": 15,
+    "title": "Moments at ÉLORA",
+    "category": "Fine Dining",
+    "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1000&q=85",
+    "size": "large",
+    "alt": "Beautifully served restaurant food"
+  }
+]
